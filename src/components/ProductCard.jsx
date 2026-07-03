@@ -1,6 +1,10 @@
 import { Link } from "react-router-dom";
+import { useCart } from "../context/CartContext";
 
 function ProductCard({ product }) {
+
+  const { addToCart } = useCart();
+
   return (
     <div className="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition duration-300">
 
@@ -35,9 +39,16 @@ function ProductCard({ product }) {
           </span>
         </p>
 
+        <button
+          onClick={() => addToCart(product)}
+          className="w-full mt-6 bg-green-600 hover:bg-green-700 text-white py-3 rounded-lg"
+        >
+          🛒 Agregar al carrito
+        </button>
+
         <Link
           to={`/products/${product.id}`}
-          className="block mt-6 bg-cyan-600 hover:bg-cyan-700 text-center text-white py-3 rounded-lg"
+          className="block mt-3 bg-cyan-600 hover:bg-cyan-700 text-center text-white py-3 rounded-lg"
         >
           Ver detalle
         </Link>
