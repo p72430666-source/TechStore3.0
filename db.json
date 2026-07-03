@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Lenovo LOQ 15",
+      "category": "Laptops",
+      "brand": "Lenovo",
+      "price": 4299,
+      "stock": 8,
+      "featured": true,
+      "image": "https://picsum.photos/400/300?random=1",
+      "description": "Laptop gamer con Ryzen 7 y RTX 4060."
+    },
+    {
+      "id": 2,
+      "name": "ASUS TUF Gaming A15",
+      "category": "Laptops",
+      "brand": "ASUS",
+      "price": 4799,
+      "stock": 6,
+      "featured": true,
+      "image": "https://picsum.photos/400/300?random=2",
+      "description": "Laptop gamer con Ryzen 9 y RTX 4070."
+    },
+    {
+      "id": 3,
+      "name": "Monitor Samsung Odyssey G5",
+      "category": "Monitores",
+      "brand": "Samsung",
+      "price": 1199,
+      "stock": 15,
+      "featured": true,
+      "image": "https://picsum.photos/400/300?random=3",
+      "description": "Monitor QHD de 27 pulgadas y 165Hz."
+    },
+    {
+      "id": 4,
+      "name": "LG UltraGear 27",
+      "category": "Monitores",
+      "brand": "LG",
+      "price": 1499,
+      "stock": 10,
+      "featured": false,
+      "image": "https://picsum.photos/400/300?random=4",
+      "description": "Monitor IPS de 27 pulgadas y 180Hz."
+    },
+    {
+      "id": 5,
+      "name": "Mouse Logitech G502 X",
+      "category": "Periféricos",
+      "brand": "Logitech",
+      "price": 259,
+      "stock": 20,
+      "featured": true,
+      "image": "https://picsum.photos/400/300?random=5",
+      "description": "Mouse gamer de alta precisión."
+    },
+    {
+      "id": 6,
+      "name": "Teclado Redragon Kumara",
+      "category": "Periféricos",
+      "brand": "Redragon",
+      "price": 219,
+      "stock": 25,
+      "featured": false,
+      "image": "https://picsum.photos/400/300?random=6",
+      "description": "Teclado mecánico RGB."
+    },
+    {
+      "id": 7,
+      "name": "HyperX Cloud III",
+      "category": "Audio",
+      "brand": "HyperX",
+      "price": 399,
+      "stock": 18,
+      "featured": true,
+      "image": "https://picsum.photos/400/300?random=7",
+      "description": "Audífonos gamer con sonido envolvente."
+    },
+    {
+      "id": 8,
+      "name": "SSD Kingston NV3 1TB",
+      "category": "Almacenamiento",
+      "brand": "Kingston",
+      "price": 299,
+      "stock": 35,
+      "featured": false,
+      "image": "https://picsum.photos/400/300?random=8",
+      "description": "SSD NVMe PCIe 4.0 de 1TB."
+    },
+    {
+      "id": 9,
+      "name": "Memoria Corsair Vengeance 32GB",
+      "category": "Memorias RAM",
+      "brand": "Corsair",
+      "price": 499,
+      "stock": 14,
+      "featured": false,
+      "image": "https://picsum.photos/400/300?random=9",
+      "description": "DDR5 6000 MHz."
+    },
+    {
+      "id": 10,
+      "name": "RTX 5060 Ti 16GB",
+      "category": "Tarjetas Gráficas",
+      "brand": "MSI",
+      "price": 2599,
+      "stock": 5,
+      "featured": true,
+      "image": "https://picsum.photos/400/300?random=10",
+      "description": "Tarjeta gráfica NVIDIA de última generación."
+    }
+  ],
+
+  "categories": [
+    { "id": 1, "name": "Laptops" },
+    { "id": 2, "name": "Monitores" },
+    { "id": 3, "name": "Periféricos" },
+    { "id": 4, "name": "Audio" },
+    { "id": 5, "name": "Almacenamiento" },
+    { "id": 6, "name": "Memorias RAM" },
+    { "id": 7, "name": "Tarjetas Gráficas" }
+  ]
+}
