@@ -9,6 +9,7 @@ import Cart from "./pages/Cart";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
+import Login from "./pages/Login";
 
 function App() {
   return (
@@ -39,6 +40,11 @@ function App() {
           <Route
             path="/contact"
             element={<Contact />}
+          />
+
+          <Route
+              path="/login"
+              element={<Login />}
           />
 
         </Route>
