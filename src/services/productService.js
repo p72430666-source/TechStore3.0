@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/products";
+const API_URL = "https://techstore3-0.onrender.com/products";
 
 export async function getProducts() {
   const response = await fetch(API_URL);
