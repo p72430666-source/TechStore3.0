@@ -8,7 +8,7 @@
       "price": 4299,
       "stock": 8,
       "featured": true,
-      "image": "https://picsum.photos/400/300?random=1",
+      "image": "https://p1-ofp.static.pub//fes/cms/2024/04/24/88iuizand3no2fhudggqym71mf7s8j982517.png",
       "description": "Laptop gamer con Ryzen 7 y RTX 4060."
     },
     {
@@ -19,7 +19,7 @@
       "price": 4799,
       "stock": 6,
       "featured": true,
-      "image": "https://picsum.photos/400/300?random=2",
+      "image": "https://dlcdnwebimgs.asus.com/gain/1387056a-60c6-4579-a3f7-ccf65affd7fa/",
       "description": "Laptop gamer con Ryzen 9 y RTX 4070."
     },
     {
@@ -30,7 +30,7 @@
       "price": 1199,
       "stock": 15,
       "featured": true,
-      "image": "https://picsum.photos/400/300?random=3",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/pe/ls27cg552elxpe/gallery/pe-odyssey-g5-g55c-ls27cg552elxpe-539626583?$1164_776_PNG$",
       "description": "Monitor QHD de 27 pulgadas y 165Hz."
     },
     {
@@ -41,7 +41,7 @@
       "price": 1499,
       "stock": 10,
       "featured": false,
-      "image": "https://picsum.photos/400/300?random=4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvt9Kbed5QaGcfgKHSO7H9VvUkeZvGVFE6CaNaUbb4zBl4x4whO2RBtk8&s=10",
       "description": "Monitor IPS de 27 pulgadas y 180Hz."
     },
     {
@@ -52,7 +52,7 @@
       "price": 259,
       "stock": 20,
       "featured": true,
-      "image": "https://picsum.photos/400/300?random=5",
+      "image": "https://promart.vteximg.com.br/arquivos/ids/8558543/imageUrl_1.jpg?v=638732107520370000",
       "description": "Mouse gamer de alta precisión."
     },
     {
@@ -63,7 +63,7 @@
       "price": 219,
       "stock": 25,
       "featured": false,
-      "image": "https://picsum.photos/400/300?random=6",
+      "image": "https://promart.vteximg.com.br/arquivos/ids/8527698/imageUrl_1.jpg?v=638715691348200000",
       "description": "Teclado mecánico RGB."
     },
     {
@@ -74,7 +74,7 @@
       "price": 399,
       "stock": 18,
       "featured": true,
-      "image": "https://picsum.photos/400/300?random=7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5Kj88ygVW86N4CtfTCCVC3c1Gof8-k2nU6f5ivl0XZhFWW-F0BT7thIX&s=10",
       "description": "Audífonos gamer con sonido envolvente."
     },
     {
@@ -85,7 +85,7 @@
       "price": 299,
       "stock": 35,
       "featured": false,
-      "image": "https://picsum.photos/400/300?random=8",
+      "image": "https://cyccomputer.pe/57114-large_default/ssd-1tb-kingston-nv3-m2-2280-nvme-pcie-gen4x4-pnsnv3s1000g.jpg",
       "description": "SSD NVMe PCIe 4.0 de 1TB."
     },
     {
@@ -96,7 +96,7 @@
       "price": 499,
       "stock": 14,
       "featured": false,
-      "image": "https://picsum.photos/400/300?random=9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtn-O6uI2l8hGiNXW7ELT4wj8mmuDZdaHzJR2FCmhWMlIBD0Eo8ZDsgd_2&s=10",
       "description": "DDR5 6000 MHz."
     },
     {
@@ -107,7 +107,7 @@
       "price": 2599,
       "stock": 5,
       "featured": true,
-      "image": "https://picsum.photos/400/300?random=10",
+     "image": "https://keagamerstore.com/wp-content/uploads/2025/05/5060TI16GB.png",
       "description": "Tarjeta gráfica NVIDIA de última generación."
     }
   ],
