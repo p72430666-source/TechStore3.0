@@ -66,10 +66,24 @@ function Navbar() {
 
                   </span>
 
+                  {user.role === "Administrador" && (
+
+                      <NavLink
+                        to="/admin"
+                        className={({ isActive }) =>
+                          isActive ? active : normal
+                        }
+                      >
+                        Panel Admin
+                      </NavLink>
+
+                    )}
+
                   <button
                     onClick={logout}
                     className="bg-red-500 px-3 py-2 rounded-lg"
                   >
+              
 
                     Salir
 

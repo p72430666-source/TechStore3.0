@@ -10,6 +10,9 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
 import Login from "./pages/Login";
+import Admin from "./pages/Admin";
+import ProtectedRoute from "./components/ProtectedRoute";
+
 
 function App() {
   return (
@@ -31,6 +34,16 @@ function App() {
             path="/cart"
             element={<Cart />}
           />
+
+          <Route
+            path="/admin"
+            element={
+              <ProtectedRoute>
+                <Admin />
+              </ProtectedRoute>
+            }
+          />
+
 
           <Route
             path="/about"
